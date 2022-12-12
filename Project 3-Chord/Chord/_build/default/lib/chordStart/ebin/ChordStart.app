@@ -1,0 +1,8 @@
+{application,chordStart,
+             [{description,[]},
+              {vsn,"1"},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {mod,{gossipSimulation,[]}},
+              {env,[]},
+              {modules,[chordStart,findKeys,test]}]}.
