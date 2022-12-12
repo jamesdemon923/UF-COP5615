@@ -1,0 +1,9 @@
+{application,twitterStart,
+             [{description,[]},
+              {vsn,"1"},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {mod,{twitterStart,[]}},
+              {env,[]},
+              {modules,[client,client_original,server,server_original,
+                        simulator,twitterStart]}]}.
