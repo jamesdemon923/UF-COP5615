@@ -1,0 +1,9 @@
+{application,gossipSimulation,
+             [{description,[]},
+              {vsn,"1"},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {mod,{gossipSimulation,[]}},
+              {env,[]},
+              {modules,[gossipSimulation,terminate,topology2D,topologyFull,
+                        topologyImp2D,topologyLine]}]}.
